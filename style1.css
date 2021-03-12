@@ -1,0 +1,10 @@
+body {
+	background: #1690A7;
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+}
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
